@@ -97,6 +97,5 @@ java KalkulatorGUI
 
 <div align="center">
 
-Dibuat dengan ☕ oleh **Nabil Naufal Anugrah** (F1D02510127)
 
 </div>
