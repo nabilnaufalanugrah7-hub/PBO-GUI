@@ -35,7 +35,7 @@ Aplikasi kalkulator penjumlahan sederhana berbasis Java Swing. Pengguna memasukk
 
 | Tampilan Awal | Setelah Interaksi |
 |:---:|:---:|
-| ![Awal](screenshot/tampilan-awal.png) | ![Interaksi](screenshot/tampilan-interaksi.png) |
+| ![Awal](screenshots/tampilan-awal.png) | ![Interaksi](screenshots/tampilan-interaksi.png) |
 
 </div>
 
